@@ -209,8 +209,8 @@ def encounter_event(items, hunter_position, ally_active, event_flags, hunter_spe
 def game():
     """逃走中ゲームのメイン関数"""
     display_message("逃走中 THE MOVIE「Escape from SAZAE」")
-    display_message("カツオー！！また宿題やらずに遊びに行こうとして！今日という今日は逃がさないんだからね！！")
-    display_message("今日は中島と野球をする約束なんだ！絶対逃げてやる！")
+    display_message("サザエ：カツオー！！また宿題やらずに遊びに行こうとして！今日という今日は逃がさないんだからね！！")
+    display_message("カツオ：今日は中島と野球をする約束なんだ！絶対逃げてやる！")
     display_message("逃走中START！ハンター：サザエから逃げ切ってください！")
     display_message("キャラクターの解釈違いがあったらすみません")
     print("--------------------------------")
